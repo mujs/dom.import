@@ -1,7 +1,7 @@
 domo.import
 ===========
 
-Import html partials
+Import HTML partials using ajax
 
 Usage
 -----
