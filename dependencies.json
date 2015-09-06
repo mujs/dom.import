@@ -1,0 +1,6 @@
+{
+  "pfraces/define": "*",
+  "mujs/mu.fn": "*",
+  "pfraces/domo": "*",
+  "pfraces/request": "*"
+}
