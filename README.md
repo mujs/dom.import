@@ -1,7 +1,7 @@
 dom.import
 ==========
 
-Import HTML partials using ajax
+A [dom plugin](https://github.com/mujs/dom) to import HTML partials
 
 Usage
 -----
