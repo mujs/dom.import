@@ -1,5 +1,5 @@
-domo.import
-===========
+dom.import
+==========
 
 Import HTML partials using ajax
 
@@ -23,8 +23,8 @@ Usage
 **script.js**
 
 ```js
-var dom = require('domo').use({
-  import: require('domo.import')
+var dom = require('dom').use({
+  import: require('dom.import')
 });
 
 dom('.template').import('template.html');
